@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## LIAM MACKEL
 
-You can use the [editor on GitHub](https://github.com/liammackel/Personal-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am a Mechanical Engineer with a focus on Project management for aerospace applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am also an amateur photographer.
+
+Here on my website you can view a selection of my professional and personal projects for engineering and photography.
+
 
 ### Markdown
 
